@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Simplest possible template with Docker, NodeJS and a webserver",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapic/docker-nodejs-webserver-template.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mapic/docker-nodejs-webserver-template/issues"
+  },
+  "homepage": "https://github.com/mapic/docker-nodejs-webserver-template#readme"
+}
