@@ -7,7 +7,7 @@ ADD ./server.js
 CMD server.js
 ```
 
-```nodejs
+```js
 const net = require('net');
 const port = 8080;
 
